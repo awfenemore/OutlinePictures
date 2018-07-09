@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace OutlinePicturesV1
 {
-    public partial class Form1 : Form
+    public partial class OutlinePicturesV1 : Form
     {
-        public Form1()
+        public OutlinePicturesV1()
         {
             InitializeComponent();
+        }
+
+        private void OutlinePicturesV1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\bin\Debug\OutlinePicturesV1.exe.config
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\bin\Debug\OutlinePicturesV1.exe
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\bin\Debug\OutlinePicturesV1.pdb
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\obj\Debug\OutlinePicturesV1.csprojResolveAssemblyReference.cache
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\obj\Debug\OutlinePicturesV1.OutlinePicturesV1.resources
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\obj\Debug\OutlinePicturesV1.Properties.Resources.resources
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\obj\Debug\OutlinePicturesV1.csproj.GenerateResource.cache
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\obj\Debug\OutlinePicturesV1.csproj.CoreCompileInputs.cache
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\obj\Debug\OutlinePicturesV1.exe
+C:\Users\awfen\Desktop\OutlinePictures\OutlinePictures\OutlinePicturesV1\OutlinePicturesV1\obj\Debug\OutlinePicturesV1.pdb
